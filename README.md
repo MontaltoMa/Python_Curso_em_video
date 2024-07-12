@@ -10,12 +10,15 @@
 <h3><strong>Mundo 1</strong></h3>
 
 <p><strong>Conhecendo a linguagem</strong></p>
-- Exercício Python #01 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio1.py">Deixando tudo pronto</a>
+- <p> Exercício Python #01 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio1.py">Deixando tudo pronto</a></p>
 <br>
-- Exercício Python #02 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio2.py">Dia, Mês e Ano de nascimento</a>
+- <p>Exercício Python #02 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio2.py">Dia, Mês e Ano de nascimento</a></p>
 
 <br>
 <p>Primeiros Passos</p>
 - Exercício Python #03 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio3.py">Somando doisa números</a>
 <br>
 - Exercício Python #04 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Primeiros%20passos/desafio2.py">Dissecando uma variável</a>
+
+<br>
+<p><p>Primeiros Passos</p></p>
