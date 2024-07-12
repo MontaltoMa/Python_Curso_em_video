@@ -20,3 +20,24 @@
 - Exercício Python #04 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Primeiros%20passos/desafio2.py">Dissecando uma variável</a>
 <p></p>
 <p><strong>Cálculos e operações</strong></p>
+- Exercício Python #04 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Primeiros%20passos/desafio2.py">Dissecando uma variável</a>
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
+<br>
+-
