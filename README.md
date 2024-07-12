@@ -14,11 +14,10 @@
 <br>
 - Exercício Python #02 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio2.py">Dia, Mês e Ano de nascimento</a>
 
-<br>
-<p>Primeiros Passos</p>
+<p><strong>Primeiros Passo</strong>s</p>
 - Exercício Python #03 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Conhecendo%20a%20linguagem/desafio3.py">Somando doisa números</a>
 <br>
 - Exercício Python #04 <a href="https://github.com/MontaltoMa/Python_Curso_em_video/blob/main/Mundo1/Primeiros%20passos/desafio2.py">Dissecando uma variável</a>
 
 <br>
-<p><p>Primeiros Passos</p></p>
+<p><strong>Cálculos e operações</strong></p>
