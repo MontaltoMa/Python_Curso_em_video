@@ -3,6 +3,6 @@
 
 from random import shuffle
 
-alunos = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
-shuffle(alunos)
-print(f'A ordem de apresentacao ficou: {alunos}')
+students = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
+shuffle(students)
+print(f'A ordem de apresentacao ficou: {students}')

@@ -2,9 +2,9 @@
 
 # Considere R$ 3.27 = US$ 1
 
-n = float(input('Digite seu saldo em carteira: \n'))
+num = float(input('Digite seu saldo em carteira: \n'))
 
 dolar = 3.27
-convercao = n / dolar
+conversion = num / dolar
 
-print(f'Seu saldo atual e de {n:.2f}R$ voce pode comprar {convercao:.2f}US$')
+print(f'Seu saldo atual e de {num:.2f}R$ voce pode comprar {conversion:.2f}US$')

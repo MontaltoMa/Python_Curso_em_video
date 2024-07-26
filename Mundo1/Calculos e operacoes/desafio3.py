@@ -2,8 +2,8 @@
 
 from math import sqrt
 
-n = int(input('Digite um numero inteiro: \n'))
+num = int(input('Digite um numero inteiro: \n'))
 
-print(f'O dobro do numero e {n * 2}')
-print(f'O triplo do numero e {n * 3}')
-print(f'A raiz quadrada do numero e {sqrt(n):.2f}')
+print(f'O dobro do numero e {num * 2}')
+print(f'O triplo do numero e {num * 3}')
+print(f'A raiz quadrada do numero e {sqrt(num):.2f}')

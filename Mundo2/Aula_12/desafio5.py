@@ -14,11 +14,11 @@ nota2 = float(input(('Digite sua segunda nota:\n')))
 def calcular_media(nota1, nota2):
     return (nota1 + nota2) / 2
 
-media = calcular_media(nota1, nota2)
+avg = calcular_media(nota1, nota2)
 
-if media < 5:
-    print(f'Sua média foi {media:.1f} sendo {media - 5} pontos abaixo de 5.0: reprovado')
-elif 5 <= media < 7:
-    print(f'Su média foi {media:.1f}: recuperação')
+if avg < 5:
+    print(f'Sua média foi {avg:.1f} sendo {avg - 5} pontos abaixo de 5.0: reprovado')
+elif 5 <= avg < 7:
+    print(f'Su média foi {avg:.1f}: recuperação')
 else:
-    print(f'Sua média foi {media:.1f}: aprovado')
+    print(f'Sua média foi {avg:.1f}: aprovado')

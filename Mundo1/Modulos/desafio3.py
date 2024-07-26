@@ -2,9 +2,9 @@
 
 from math import cos, sin, tan, radians
 
-n = float(input('Digite um ângulo de uma circunferência (ou seja, entre 0º e 360º): \n \n'))
+num = float(input('Digite um ângulo de uma circunferência (ou seja, entre 0º e 360º): \n \n'))
 
 # Calcula e exibe o seno, cosseno e tangente do ângulo
-print(f'O valor do Seno: {sin(radians(n)):.2f}')
-print(f'O valor do cosseno: {cos(radians(n)):.2f}')
-print(f'O valor da tangente: {tan(radians(n)):.2f}')
+print(f'O valor do Seno: {sin(radians(num)):.2f}')
+print(f'O valor do cosseno: {cos(radians(num)):.2f}')
+print(f'O valor da tangente: {tan(radians(num)):.2f}')

@@ -3,6 +3,6 @@
 num1 = int(input("Digite o primeiro numeros: \n"))
 num2 = int(input("Digite o segundo numero: \n"))
 
-soma = num1 + num2
+res = num1 + num2
 
-print(soma)
+print(res)

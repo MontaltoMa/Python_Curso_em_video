@@ -12,14 +12,14 @@ Seu programa também deverá mostrar o tempo que faltou ou que passou do prazo
 from datetime import datetime
 
 print('Voce ainda precisa se alistar?')
-ano = int(input('Digite o ano do seu nascimento:\n'))
-ano_atual = datetime.now().year
-idade = ano_atual - ano
+year = int(input('Digite o ano do seu nascimento:\n'))
+current_year = datetime.now().year
+age = current_year - year
 
 
 def precisa_se_alistar(idade):
     if idade < 18:
-        tempo_para_alistar = ano_atual - ano
+        tempo_para_alistar = current_year - year
         return f'Voce tem {idade} anos ainda vai ter que se alistar daqui {tempo_para_alistar} anos'
     elif idade == 18:
         return f'E hora de se alistar, voce ja tem {idade} anos'
@@ -27,6 +27,6 @@ def precisa_se_alistar(idade):
         passou_do_tempo = idade - 18 
         return f'Ja passou do tempo do alistamento, voce tem {idade} anos e deveria ter se alistado a {passou_do_tempo} anos'
     
-resultado = precisa_se_alistar(idade)
+result = precisa_se_alistar(age)
 
-print(resultado)
+print(result)

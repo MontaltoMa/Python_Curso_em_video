@@ -9,10 +9,10 @@ Primeiro = Ana
 Último = Souza
 """
 
-nome = str(input('Digite seu nome completo: \n')).title()
+name = str(input('Digite seu nome completo: \n')).title()
 
-separado = nome.split()
+separete = name.split()
 
 print('Muito prazer em te conhecer!')
-print(f'Seu primeiro nome e {separado[0]}')
-print(f'Seu ultimo nome e {separado[2]}')
+print(f'Seu primeiro nome e {separete[0]}')
+print(f'Seu ultimo nome e {separete[2]}')

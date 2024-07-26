@@ -3,16 +3,16 @@
 
 from random import choice
 
-nomes = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
+names = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
 
-escolhido = choice(nomes)
-print(f'O aluno escolhido e {escolhido}')
+chosen = choice(names)
+print(f'O aluno escolhido e {chosen}')
 
 # Segunda opcao com o mesmo resultado usando o randint
 
 from random import randint
 
-nomes = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
-escolha = randint(0, len(nomes) -1)
+names = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
+chosen = randint(0, len(names) -1)
 
-print(f'O aluno escolhido foi {nomes[escolha]}')
+print(f'O aluno escolhido foi {names[chosen]}')

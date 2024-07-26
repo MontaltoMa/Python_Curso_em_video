@@ -2,6 +2,6 @@
 
 from math import trunc
 
-n = float(input('Digite um numero real: \n'))
+num = float(input('Digite um numero real: \n'))
 
-print(f'O numero real digitado foi {n:.2f} e sua portcao inteira e {trunc(n)}')
+print(f'O numero real digitado foi {num:.2f} e sua portcao inteira e {trunc(num)}')

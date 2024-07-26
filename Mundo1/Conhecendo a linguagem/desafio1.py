@@ -1,2 +1,2 @@
-nome  = input("Digite seu nome: \n")
-print(f"Ola {nome}, seja muito bem vindo")
+name  = input("Digite seu nome: \n")
+print(f"Ola {name}, seja muito bem vindo")

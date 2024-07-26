@@ -5,7 +5,7 @@ mostrando na tela uma mensagem:
 - o segundo valor é maior
 - não existe valor maior; os dois são iguais
 '''
-def comparando_valores(num1, num2):
+def comparing_values(num1, num2):
     if num1 > num2:
         return 'Primeiro valor é maior'
     elif num1 < num2:
@@ -17,6 +17,6 @@ print('Vamos comparar dois numeros inteiros para ver qual e maior')
 num1 = int(input('Digite o primeiro valor: \n'))
 num2 = int(input('Digite o segundo valor: \n'))
 
-resultado = comparando_valores(num1, num2)
+result = comparing_values(num1, num2)
 
-print(resultado)
+print(result)

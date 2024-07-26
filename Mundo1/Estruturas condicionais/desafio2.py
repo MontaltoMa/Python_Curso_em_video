@@ -7,15 +7,15 @@ from random import randint
 from time import sleep
 
 #Usei o randint para criar situacoes diversas
-velocidade = randint(20, 200)
+speed = randint(20, 200)
 
 #Calcula a multa pegando a velocidade do carro e subtraindo pelo limite da via para saber quanto sera a multa final
-multa = (velocidade - 80) * 7 
+t_ticket = (speed - 80) * 7 
 
-if velocidade > 80:
-    print(f'Voce estava a {velocidade}KM em uma via de 80KM')
+if speed > 80:
+    print(f'Voce estava a {speed}KM em uma via de 80KM')
     print('Voce foi multado estamos calculando o valor da multa!')
     sleep(1)
-    print(f'Valor a pagar R${multa:.2f}')
+    print(f'Valor a pagar R${t_ticket:.2f}')
 else:
-    print(f'Voce estava a {velocidade}KM na via onde o limite era 80KM, continue dirigindo com cuidado!')
+    print(f'Voce estava a {speed}KM na via onde o limite era 80KM, continue dirigindo com cuidado!')
